@@ -8,15 +8,44 @@
     gap:10px;
 
 }
-.cart-container{
+.cart-container {
     background-color: #FFE4C4;
     margin-left: 15px;
     margin-right: 10px;
     border-radius: 10px;
-    height:1080px;
     text-align: center;
-    padding:10px;
+    height: 580px;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+
+
+
 }
+.randomly-select-btn{
+    background-color: #F74258;
+    border:none;
+    border-radius: 3px;
+    padding:5px;
+}
+.choose-and-select-btn{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    
+}
+
+.select-again-btn{
+    background-color: #FF6347;
+    border:none;
+    border-radius: 3px;
+    padding:5px;
+    margin-top: 10px;
+    
+}
+
+
+
 /*-------------------------------*\
 Responsive Design
 \*-------------------------------*/
@@ -34,6 +63,9 @@ for mobile device
        gap: 5px;
        margin-right: 10px;
 
+   }
+   .cart-container{
+       height:550px;
    }
  
 }
