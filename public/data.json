@@ -1,0 +1,91 @@
+[
+    {
+    "id": "1",
+    "category": "Sports Watch",
+    "name": "Quartz Sports Watch for Men",
+    "price": 1070,
+    "img": "https://i.ibb.co/HzvW1zR/watch-1.jpg",
+    "quantity": 0,
+    "seller":"Quartz",
+    "ratings":5
+  },
+    {
+    "id": "2",
+    "category": "Watch for men",
+    "name": "Quartz Stainless Steel Band Watch for Men (Gold)",
+    "price": 1925,
+    "img": "https://i.ibb.co/981Vfcr/watch-2.jpg",
+    "quantity": 0,
+    "seller": "Quartz",
+    "ratings":4.5
+  },
+    {
+    "id": "3",
+    "category": "Watch for men",
+    "name": "Leather Analog Watch for Men",
+    "price": 4520,
+    "img": "https://i.ibb.co/wWwwNm8/watch-3.jpg",
+    "quantity": 0,
+    "seller": "Naviforce",
+    "ratings":4
+  },
+    {
+    "id": "4",
+    "category": "Watch for men",
+    "name": "Leather Watch for Men - Rose Gold",
+    "price": 6500,
+    "img": "https://i.ibb.co/9yJ1Gsr/watch-4.jpg",
+    "quantity": 0,
+    "seller": "Naviforce",
+    "ratings":5
+  },
+    {
+    "id": "5",
+    "category": "watch for men",
+    "name": "Leather Dual Time Wrist Watch",
+    "price": 5500,
+    "img": "https://i.ibb.co/p2xkLSx/watch-5.jpg]",
+    "quantity": 0,
+    "seller": "Naviforce",
+    "ratings":4.5
+  },
+    {
+    "id": "6",
+    "category": "Watch for men",
+    "name": "Leather Wrist Watch for Men",
+    "price": 5200,
+    "img": "https://i.ibb.co/sj1CyGj/watch-6.jpg",
+    "quantity": 0,"seller": "Naviforce",
+    "ratings":4
+  },
+    {
+    "id": "7",
+    "category": "Watch for men",
+    "name": "Leather Analog Watch for Men",
+    "price": 4200,
+    "img": "https://i.ibb.co/cDSCryR/watch-7.jpg",
+    "quantity": 0,
+    "seller": "Naviforce",
+    "ratings":5
+  },
+    {
+    "id": "8",
+    "category": "Watch for men",
+    "name": "Quartz Movement Leather Strap Watch",
+    "price": 3500,
+    "img": "https://i.ibb.co/bmBQBzz/watch-8.jpg",
+    "quantity": 0,
+    "seller": "Naviforce",
+    "ratings":4
+  },
+    {
+    "id": "9",
+    "category": "Watch for men",
+    "name": "Quartz Waterproof Stainless Steel Watch",
+    "price": 1950,
+    "img": "https://i.ibb.co/ZG4dGqt/watch-9.jpg",
+    "quantity": 0,
+    "seller": "Naviforce",
+    "ratings":4.5
+  }
+]
