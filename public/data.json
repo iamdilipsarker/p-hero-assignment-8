@@ -22,7 +22,7 @@
     {
     "id": "3",
     "category": "Watch for men",
-    "name": "Leather Analog Watch for Men",
+    "name": "NAVIFORCE Leather Analog Watch for Men",
     "price": 4520,
     "img": "https://i.ibb.co/wWwwNm8/watch-3.jpg",
     "quantity": 0,
@@ -32,7 +32,7 @@
     {
     "id": "4",
     "category": "Watch for men",
-    "name": "Leather Watch for Men - Rose Gold",
+    "name": "NAVIFORCE Leather Watch for Men - Rose Gold",
     "price": 6500,
     "img": "https://i.ibb.co/9yJ1Gsr/watch-4.jpg",
     "quantity": 0,
@@ -42,7 +42,7 @@
     {
     "id": "5",
     "category": "watch for men",
-    "name": "Leather Dual Time Wrist Watch",
+    "name": "NAVIFORCE Leather Dual Time Wrist Watch",
     "price": 5500,
     "img": "https://i.ibb.co/p2xkLSx/watch-5.jpg]",
     "quantity": 0,
@@ -52,7 +52,7 @@
     {
     "id": "6",
     "category": "Watch for men",
-    "name": "Leather Wrist Watch for Men",
+    "name": "NAVIFORCE Leather Wrist Watch for Men",
     "price": 5200,
     "img": "https://i.ibb.co/sj1CyGj/watch-6.jpg",
     "quantity": 0,"seller": "Naviforce",
@@ -61,7 +61,7 @@
     {
     "id": "7",
     "category": "Watch for men",
-    "name": "Leather Analog Watch for Men",
+    "name": "NAVIFORCE Leather Analog Watch for Men",
     "price": 4200,
     "img": "https://i.ibb.co/cDSCryR/watch-7.jpg",
     "quantity": 0,
@@ -84,6 +84,36 @@
     "name": "Quartz Waterproof Stainless Steel Watch",
     "price": 1950,
     "img": "https://i.ibb.co/ZG4dGqt/watch-9.jpg",
+    "quantity": 0,
+    "seller": "Quartz",
+    "ratings":4.5
+  },
+  {
+    "id": "10",
+    "category": "Watch for men",
+    "name": "NAVIFORCE NF9148 PU Leather Watch for Men - Black",
+    "price": 6550,
+    "img": "https://i.ibb.co/5GS21Tg/watch-10.jpg",
+    "quantity": 0,
+    "seller": "Naviforce",
+    "ratings":4
+  },
+   {
+     "id": "11",
+    "category": "Watch for men",
+    "name": "NAVIFORCE NF9146 Stainless Steel Dual Time Wrist Watch",
+    "price": 6000,
+    "img": "https://i.ibb.co/FYPwJnC/watch-11.jpg",
+    "quantity": 0,
+    "seller": "Naviforce",
+    "ratings":5
+  },
+   {
+     "id": "12",
+    "category": "Watch for men",
+    "name": "NAVIFORCE NF9188 LED Stainless Steel Sports Watch for Men",
+    "price": 2500,
+    "img": "https://i.ibb.co/tcsFg0k/watch-13.jpg",
     "quantity": 0,
     "seller": "Naviforce",
     "ratings":4.5
