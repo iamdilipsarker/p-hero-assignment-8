@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from 'react';
-
 import Product from '../Product/Product';
 
+ 
 import "./Shop.css"
 const Shop = () => {
     const [products, setProducts] = useState([]);
     const [cart, setCart] = useState([]);
+    console.log(cart)
     
 
     useEffect(() => {
@@ -36,16 +37,17 @@ const Shop = () => {
                 <h6>Selected Items: {cart.length}</h6>
                 {
                     cart.map(item => (
-                        <div key={item.id}>
-                            <p>{item.name}</p>
-
+                        <div className='cart-items' key={item.id}>
+                            <img className='watch-img' src={item.img} alt=""/>
+                            <p className='pt-3 carts-product-name'>{item.name}</p>
+                            
                         </div>
                         
                     ))
                 }
                 <div className='choose-and-select-btn'>
-                     <button class="randomly-select-btn">CHOOSE 1 FOR ME</button>
-                    <button class="select-again-btn">CHOOSE AGAIN</button>
+                    <button className='randomly-select-btn'>CHOOSE 1 FOR ME</button>
+                    <button className="select-again-btn">CHOOSE AGAIN</button>
                </div>
             </div>
         </div>

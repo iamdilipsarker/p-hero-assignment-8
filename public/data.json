@@ -4,7 +4,7 @@
     "category": "Sports Watch",
     "name": "Quartz Sports Watch for Men",
     "price": 1070,
-    "img": "https://i.ibb.co/HzvW1zR/watch-1.jpg",
+    "img": "images/watch-1.jpeg",
     "quantity": 0,
     "brand":"Quartz",
     "ratings":5
@@ -14,7 +14,7 @@
     "category": "Watch for men",
     "name": "Stainless Steel Band Watch(Gold)",
     "price": 1925,
-    "img": "https://i.ibb.co/981Vfcr/watch-2.jpg",
+    "img": "images/watch-2.jpeg",
     "quantity": 0,
     "brand": "Quartz",
     "ratings":4.5
@@ -24,7 +24,7 @@
     "category": "Watch for men",
     "name": "Leather Analog Watch for Men",
     "price": 4520,
-    "img": "https://i.ibb.co/wWwwNm8/watch-3.jpg",
+    "img": "images/watch-3.jpeg",
     "quantity": 0,
     "brand": "Naviforce",
     "ratings":4
@@ -34,7 +34,7 @@
     "category": "Watch for men",
     "name": "Leather Watch for Men - Rose Gold",
     "price": 6500,
-    "img": "https://i.ibb.co/9yJ1Gsr/watch-4.jpg",
+    "img": "images/watch-4.jpeg",
     "quantity": 0,
     "brand": "Naviforce",
     "ratings":5
@@ -44,7 +44,7 @@
     "category": "watch for men",
     "name": "Leather Dual Time Wrist Watch",
     "price": 5500,
-    "img": "https://i.ibb.co/p2xkLSx/watch-5.jpg]",
+    "img": "images/watch-5.jpeg",
     "quantity": 0,
     "brand": "Naviforce",
     "ratings":4.5
@@ -54,7 +54,7 @@
     "category": "Watch for men",
     "name": "Leather Wrist Watch for Men",
     "price": 5200,
-    "img": "https://i.ibb.co/sj1CyGj/watch-6.jpg",
+    "img": "images/watch-6.jpeg",
     "quantity": 0,"brand": "Naviforce",
     "ratings":4
   },
@@ -63,7 +63,7 @@
     "category": "Watch for men",
     "name": "Leather Analog Watch for Men",
     "price": 4200,
-    "img": "https://i.ibb.co/cDSCryR/watch-7.jpg",
+    "img": "images/watch-7.jpeg",
     "quantity": 0,
     "brand": "Naviforce",
     "ratings":5
@@ -73,7 +73,7 @@
     "category": "Watch for men",
     "name": "Movement Leather Strap Watch",
     "price": 3500,
-    "img": "https://i.ibb.co/bmBQBzz/watch-8.jpg",
+    "img": "images/watch-8.jpeg",
     "quantity": 0,
     "brand": "Naviforce",
     "ratings":4
@@ -83,7 +83,7 @@
     "category": "Watch for men",
     "name": "Waterproof Stainless Steel Watch",
     "price": 1950,
-    "img": "https://i.ibb.co/ZG4dGqt/watch-9.jpg",
+    "img": "images/watch-9.jpeg",
     "quantity": 0,
     "brand": "Quartz",
     "ratings":4.5
@@ -93,7 +93,7 @@
     "category": "Watch for men",
     "name": "Leather Watch for Men - Black",
     "price": 6550,
-    "img": "https://i.ibb.co/5GS21Tg/watch-10.jpg",
+    "img": "images/watch-10.jpeg",
     "quantity": 0,
     "brand": "Naviforce",
     "ratings":4
@@ -103,7 +103,7 @@
     "category": "Watch for men",
     "name": "Stainless Steel Dual Time Wrist Watch",
     "price": 6000,
-    "img": "https://i.ibb.co/FYPwJnC/watch-11.jpg",
+    "img": "images/watch-11.jpeg",
     "quantity": 0,
     "brand": "Naviforce",
     "ratings":5
@@ -113,7 +113,7 @@
     "category": "Watch for men",
     "name": "Stainless Steel Sports Watch for Men",
     "price": 2500,
-    "img": "https://i.ibb.co/tcsFg0k/watch-13.jpg",
+    "img": "images/watch-12.jpeg",
     "quantity": 0,
     "brand": "Naviforce",
     "ratings":4.5
