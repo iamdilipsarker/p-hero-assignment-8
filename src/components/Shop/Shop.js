@@ -6,7 +6,7 @@ import "./Shop.css"
 const Shop = () => {
     const [products, setProducts] = useState([]);
     const [cart, setCart] = useState([]);
-    console.log(cart)
+    let [randomlySelectedCart, setRandomlySelectedCart] = useState([]);
     
 
     useEffect(() => {
@@ -18,6 +18,17 @@ const Shop = () => {
     const handleAddToCart = (product) => {
         const newCart = [...cart, product];
         setCart(newCart);
+    }
+    const selectItemRandomly = (cart) => {
+        
+        let randomCart = cart.splice(cart.id, 1);
+        setRandomlySelectedCart(randomCart);
+            
+        
+    }
+    const chooseAgain = (cart) => {
+        setCart([]);
+        setRandomlySelectedCart([]);
     }
 
     return (
@@ -45,9 +56,20 @@ const Shop = () => {
                         
                     ))
                 }
+                {
+                    randomlySelectedCart.map(item => (
+                        <div className='new-cart-items' key={item.id}>
+                            <img className='watch-img' src={item.img} alt=""/>
+                            <p className='pt-3 carts-product-name'>{item.name}</p>
+                            
+                        </div>
+                        
+                    ))
+                }
+                
                 <div className='choose-and-select-btn'>
-                    <button className='randomly-select-btn'>CHOOSE 1 FOR ME</button>
-                    <button className="select-again-btn">CHOOSE AGAIN</button>
+                    <button onClick={()=>selectItemRandomly(cart)} className='randomly-select-btn'>CHOOSE 1 FOR ME</button>
+                    <button onClick={()=> chooseAgain(cart)} className="select-again-btn">CHOOSE AGAIN</button>
                </div>
             </div>
         </div>

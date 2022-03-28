@@ -52,6 +52,17 @@
     margin-bottom: 8px;
     border-radius: 8px;
 }
+.new-cart-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #D87093;
+    margin-top:5px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    
+}
 .watch-img{
     width:40px;
     border-radius: 50%;
