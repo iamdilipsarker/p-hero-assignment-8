@@ -18,21 +18,20 @@
     padding: 10px;
     position: sticky;
     top: 0;
+}
 
-
+.choose-and-select-btn {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
 
 }
+
 .randomly-select-btn{
     background-color: #F74258;
     border:none;
     border-radius: 3px;
     padding:5px;
-}
-.choose-and-select-btn{
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 10px;
-    
 }
 
 .select-again-btn{

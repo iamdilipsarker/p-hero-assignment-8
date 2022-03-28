@@ -33,7 +33,7 @@ const Shop = () => {
             </div>
             <div className="cart-container">
                 <h5>Order Summary</h5>
-                <p>Selected Items: {cart.length}</p>
+                <h6>Selected Items: {cart.length}</h6>
                 {
                     cart.map(item => (
                         <div key={item.id}>
@@ -45,7 +45,7 @@ const Shop = () => {
                 }
                 <div className='choose-and-select-btn'>
                      <button class="randomly-select-btn">CHOOSE 1 FOR ME</button>
-                    <button class="select-again-btn">CHOSE AGAIN</button>
+                    <button class="select-again-btn">CHOOSE AGAIN</button>
                </div>
             </div>
         </div>
